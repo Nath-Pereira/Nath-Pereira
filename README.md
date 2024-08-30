@@ -9,7 +9,6 @@ Sou uma desenvolvedora Fullstack Júnior apaixonada por criar soluções inovado
 - 👯 Estou procurando colaborar em projetos open source e aprender com a comunidade.
 - 🤔 Interessa-me em explorar novas tecnologias como React, Node.js, e Docker.
 - 💬 Pergunte-me sobre tecnologias web, melhores práticas de codificação e desenvolvimento de software.
-- 📫 Como entrar em contato: [nataliapereirasilva@gmail.com](mailto:nataliapereirasilva@gmail.com)
 - ⚡ Curiosidade: Apaixonada por resolução de problemas e desenvolvimento ágil.
 
 ## 🛠️ Tecnologias & Ferramentas
