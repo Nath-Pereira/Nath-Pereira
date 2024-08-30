@@ -22,6 +22,6 @@ Sou uma desenvolvedora Fullstack Júnior apaixonada por criar soluções inovado
 
 ## 📈 Estatísticas do GitHub
 
-![Natália's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliapereirasilva&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs&theme=radical)
+![Natália's GitHub stats](https://github-readme-stats.vercel.app/api?username=nps3&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs&theme=radical)
 
 Obrigado por visitar meu perfil! 😊
